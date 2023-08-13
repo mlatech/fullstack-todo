@@ -13,3 +13,4 @@ module.exports = (req, res) => {
         res.status(401).send("Wrong password")
     }
 }
+//checkig password 
